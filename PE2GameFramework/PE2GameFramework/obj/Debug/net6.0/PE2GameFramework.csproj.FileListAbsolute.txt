@@ -1,0 +1,15 @@
+C:\Users\Bora Zihnali\source\repos\PE2GameFramework\PE2GameFramework\bin\Debug\net6.0\PE2GameFramework.exe
+C:\Users\Bora Zihnali\source\repos\PE2GameFramework\PE2GameFramework\bin\Debug\net6.0\PE2GameFramework.deps.json
+C:\Users\Bora Zihnali\source\repos\PE2GameFramework\PE2GameFramework\bin\Debug\net6.0\PE2GameFramework.runtimeconfig.json
+C:\Users\Bora Zihnali\source\repos\PE2GameFramework\PE2GameFramework\bin\Debug\net6.0\PE2GameFramework.dll
+C:\Users\Bora Zihnali\source\repos\PE2GameFramework\PE2GameFramework\bin\Debug\net6.0\PE2GameFramework.pdb
+C:\Users\Bora Zihnali\source\repos\PE2GameFramework\PE2GameFramework\obj\Debug\net6.0\PE2GameFramework.csproj.AssemblyReference.cache
+C:\Users\Bora Zihnali\source\repos\PE2GameFramework\PE2GameFramework\obj\Debug\net6.0\PE2GameFramework.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bora Zihnali\source\repos\PE2GameFramework\PE2GameFramework\obj\Debug\net6.0\PE2GameFramework.AssemblyInfoInputs.cache
+C:\Users\Bora Zihnali\source\repos\PE2GameFramework\PE2GameFramework\obj\Debug\net6.0\PE2GameFramework.AssemblyInfo.cs
+C:\Users\Bora Zihnali\source\repos\PE2GameFramework\PE2GameFramework\obj\Debug\net6.0\PE2GameFramework.csproj.CoreCompileInputs.cache
+C:\Users\Bora Zihnali\source\repos\PE2GameFramework\PE2GameFramework\obj\Debug\net6.0\PE2GameFramework.dll
+C:\Users\Bora Zihnali\source\repos\PE2GameFramework\PE2GameFramework\obj\Debug\net6.0\refint\PE2GameFramework.dll
+C:\Users\Bora Zihnali\source\repos\PE2GameFramework\PE2GameFramework\obj\Debug\net6.0\PE2GameFramework.pdb
+C:\Users\Bora Zihnali\source\repos\PE2GameFramework\PE2GameFramework\obj\Debug\net6.0\PE2GameFramework.genruntimeconfig.cache
+C:\Users\Bora Zihnali\source\repos\PE2GameFramework\PE2GameFramework\obj\Debug\net6.0\ref\PE2GameFramework.dll
